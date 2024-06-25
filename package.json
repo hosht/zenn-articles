@@ -18,7 +18,9 @@
     "url": "https://github.com/hosht/zenn-articles/issues"
   },
   "homepage": "https://github.com/hosht/zenn-articles#readme",
-  "dependencies": {
+  "devDependencies": {
+    "textlint": "^14.0.4",
+    "textlint-rule-preset-ja-technical-writing": "^10.0.1",
     "zenn-cli": "^0.1.154"
   }
 }
