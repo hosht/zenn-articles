@@ -1,4 +1,5 @@
 {
+  "plugins": ["@textlint/markdown"],
   "rules": {
     "preset-ja-technical-writing": true
   }
